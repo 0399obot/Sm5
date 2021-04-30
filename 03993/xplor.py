@@ -22,7 +22,7 @@ NOTE: This tool's only work for Indonesia number phone.
 2. OTP Matahari
 3. OTP Hallodok
 4. OTP Olx.co.id
-5. Unlimited Brutal
+5. Otp socil
 """)
 		pilih=int(input('setiaji/> '))
 
@@ -35,7 +35,7 @@ NOTE: This tool's only work for Indonesia number phone.
 		elif pilih == 4:
 			import src.olx
 		elif pilih == 5:
-			import src.brutal
+			import src.socil
 		else: print("[!] lihat menu dong(o)");self.menu()
 
 	def detekos(self):
