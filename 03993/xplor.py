@@ -7,12 +7,12 @@ class Main:
 		self.detekos()
 
 	def menu(self):
-		print(f"""{kun}•••••••••••••••••••••••••••••••••••••••••••••••••••••••••       
+		print(f"""{kun}
+•••••••••••••••••••••••••••••••••••••••••••••••••••••••••       
 	    ;	S P A M  S M S - C A L L  ;          0399obot
    		;---------------------------;    Xplorteks'xX
      	;     Project  :  Setiaji   ;
 	   	                               2021
-  
  IG  :   https://instagram.com/setiaji.ios
   WEB:   http://actslowly.6te.net
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••
