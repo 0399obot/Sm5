@@ -42,7 +42,7 @@ reg=ses.post("https://soco-api.sociolla.com/auth/register",
 		"salute":"Mr",
 		"phone_no":num},
 	headers=headreg)
-token=bs.find('input',{'name':'_token'})['value']
+
 token=reg.json()['data']['token']
 
 headotp={
