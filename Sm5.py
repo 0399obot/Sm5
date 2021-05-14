@@ -20,9 +20,9 @@ class main:
   elif (hyu == '3') or (hyu == '03'):
    os.system("clear")
    bnr()
-   print (f"          {tot}Notice{sop}   ")
+   print (f"          {tot}Ketik ctrl c lalu ketik cd 03993{sop}   ")
    print (f"""{kon}spam brutal (sms, wa, call) '""")
-   os.system("python brutal.py")
+   os.system("python Sm5.py")
   elif (hyu == '4') or (hyu == '04'):
    os.system("git pull")
    main.main()
@@ -613,7 +613,7 @@ class spam:
 try:
  os.system("clear")
  bnr()
- menu=["Mulai","Grup WhatsApp","Info Tools","Update"]
+ menu=["Mulai","No WhatsApp","Info","Update"]
  print (f"         {tot}MENU{sop}        ")
  for i in range(len(menu)):
    print (f"{ken} [0"+str(i+1).ljust(1)+"] \033[31m"+menu[i])
