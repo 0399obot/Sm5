@@ -1,8 +1,10 @@
 import requests, time
 
-print("""
-	[ olx.co.id OTP ]
-	   - noobie -
+print("""   
+                ;;;;;;;;;;;;;;;;;;;;;;;;
+		; SMS Gratis OLX       ;
+		;      - Setiaji -     ;
+		;;;;;;;;;;;;;;;;;;;;;;;;
 """)
 
 num=input("[In] Number: ")
