@@ -23,7 +23,7 @@ Notice:Tools ini hanya dapat digunakan menggunakan Number Indonesia
 •••
 1. SMS Gratis
 •••••••••••••
-2. CALL Verifikasi
+2. CALL OTP jakarta
 •••••••••••••••••••
 3. OTP Hallodok
 ••••••••••••••••••••••••••
@@ -37,13 +37,13 @@ Notice:Tools ini hanya dapat digunakan menggunakan Number Indonesia
 		if pilih == 1:
 			import src.sms
 		elif pilih == 2:
-			import src.call
+			import src.CallO
 		elif pilih == 3:
 			import src.alodok
 		elif pilih == 4:
 			import src.olx
 		elif pilih == 5:
-			import src.Sm5
+			import src.callw
 		else: print("[!] lihat menu dong(o)");self.menu()
 
 	def detekos(self):
