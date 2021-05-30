@@ -2,8 +2,10 @@ import requests, time
 from random import randrange as rg
 
 print("""
-	[ SOCIOLLA OTP ]
-	   - noobie -
+	        ;;;;;;;;;;;;;;;;;;;;;;;;
+		; SMS Gratis socil     ;
+		;      - Setiaji -     ;
+		;;;;;;;;;;;;;;;;;;;;;;;;
 """)
 
 num=input("[In] Number: ")
