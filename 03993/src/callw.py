@@ -3,15 +3,12 @@ import json,os,sys
  
 
 logo = """
-         Spam•Call
- {×} Creator : Dark Night
- {×} Youtube : Termux ID & Moczal Gaming
- {×} Wa : +6285806070813
-
-
- Call Di Awali Dengan
- Contoh
-  = 858
+                ;;;;;;;;;;;;;;;;;;;;;;;;
+		; SMS Gratis PayuTerus ;
+		;      - Setiaji -     ;
+		;;;;;;;;;;;;;;;;;;;;;;;;
+ 
+Menggunakan awalan 8 langsung ga pake 0  = 82324*****
 «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~»\n"""
 
 os.system('clear')
