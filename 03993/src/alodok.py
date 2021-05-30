@@ -1,8 +1,10 @@
 import requests, time
 
 print("""
-	[ HALLODOK OTP ]
-	    -noobie-
+	        ;;;;;;;;;;;;;;;;;;;;;;;;
+		; SMS Gratis Alodok    ;
+		;      - Setiaji -     ;
+		;;;;;;;;;;;;;;;;;;;;;;;;
 """)
 
 num=input("[In] Nomor: ")
