@@ -5,32 +5,8 @@ from requests import post
 
 #MASUKAN NOMOR DI KOLOM VARIABLE URL
 #MASUKAN NOMOR TANPA 62/0
-#CONTOH 8938373772
-url = "https://id.jagreward.com/member/verify-mobile/85591496873/"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#CONTOH 82324252830*
+url = "https://id.jagreward.com/member/verify-mobile/82324538303/"
 
 def bersih():
     os.system("clear")
@@ -38,7 +14,7 @@ def bersih():
 def balik():
     d = input("\033[1;97mCoba lagi? (y/t): ")
     if d == "y":
-       subprocess.call("python call.py",shell=True)
+       subprocess.call("python CallO.py",shell=True)
     elif d == "t":
          print ("\033[1;91mExit")
          os.system("exit")
