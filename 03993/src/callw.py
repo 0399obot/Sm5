@@ -4,7 +4,7 @@ import json,os,sys
 
 logo = """
                 ;;;;;;;;;;;;;;;;;;;;;;;;
-		; SMS Gratis PayuTerus ;
+		; Call Verifikasi 3×   ;
 		;      - Setiaji -     ;
 		;;;;;;;;;;;;;;;;;;;;;;;;
  
